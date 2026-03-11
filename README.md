@@ -5,7 +5,7 @@ A production-ready URL shortening service implementing all 5 subtasks. Built wit
 ---
 
 ## Live Demo
-> https://your-app.vercel.app
+> https://snip-application.vercel.app/
 
 ---
 
